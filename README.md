@@ -25,6 +25,7 @@ List：
     - [rollup](./list/project/packager/rollup/readme.md)
     - [vite](./list/project/packager/vite/readme.md)
     - [webpack](./list/project/packager/webpack/readme.md)
+- [solution 整体解决方案](./list/solution/readme.md)
 - [accessibility](./list/accessibility/readme.md)
 - [nodejs](./list/nodejs/readme.md)
 - [version](./list/version/readme.md)
