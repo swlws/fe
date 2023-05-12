@@ -1,5 +1,7 @@
 # fe
 
+> 知我者，谓我心忧；不知我者，谓我何求。
+
 Web front-end knowledge
 
 List：
